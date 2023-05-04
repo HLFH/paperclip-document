@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_dependency 'docsplit-ng', '>= 0.8'
-  spec.add_dependency 'paperclip', '< 6.1'
+  spec.add_dependency 'kt-paperclip', '> 7.1'
   spec.add_development_dependency 'bundler', '>= 1.3'
   spec.add_development_dependency 'minitest'
   spec.add_development_dependency 'rails', '>= 3.2', '< 6'
