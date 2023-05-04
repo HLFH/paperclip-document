@@ -1,5 +1,5 @@
 module Paperclip
   module Document
-    VERSION = '0.0.11'.freeze
+    VERSION = '0.0.12'.freeze
   end
 end
